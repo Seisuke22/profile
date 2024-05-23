@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poetsen+One&display=swap');
+
+body {
+  background-color: burlywood;
+  font-family:'Times New Roman', Times, serif;
+  line-height: normal;
+  text-align: center;
+}
+
+.btn-color {
+  background-color:brown;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#first-border {
+  background-color: beige;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+#second-border {
+  background-color: beige;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+#third-border {
+  background-color: beige;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+#forth-border {
+  background-color: beige;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+#last-border {
+  background-color: beige;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+}
+
+.img-circle {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.img-qr{
+  width: 100px;
+}
+
+h1 {
+  color:chocolate;
+  font-size: 35px;
+  line-height: normal;
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  color:chocolate;
+  font-family: "Poetsen One", sans-serif;
+  font-size: large;
+  font-style: normal;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+a:hover {
+ text-decoration: underline;
+ color: black;
+}
+a {
+  color: chocolate;
+  font-family: "Poetsen One", sans-serif;
+  font-size: large;
+  font-style: normal;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+}
+
+#icon-size li {
+  display: inline;
+}
+
+#icon-size li i{
+  margin: 15px;
+  font-size: 50px;
+}
